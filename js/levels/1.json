@@ -1,0 +1,35 @@
+var Level1 = {
+  "name":"Level 01",
+  
+  "width":	3840, 
+  "height":	600,
+
+  "playerSpawnX":	100,
+  "playerSpawnY":	100,
+
+  "targetPosX":	3400,
+  "targetPosY":	400,
+    
+};
+
+var Level1Gras = [
+	{ "PosX":0,			"PosY":0,		"Width":100,		"Height":100 },
+	{ "PosX":100,		"PosY":50 ,		"Width":100,		"Height":100 },
+	{ "PosX":200,		"PosY":20 ,		"Width":100,		"Height":100 },
+	{ "PosX":150,		"PosY":100,		"Width":100,		"Height":100 },
+	{ "PosX":120,		"PosY":20,		"Width":100,		"Height":100 },
+	{ "PosX":300,		"PosY":30,		"Width":100,		"Height":100 },
+];
+
+var Level1Stone = [
+	{ "PosX":0,			"PosY":0,		"Width":100,		"Height":100 },
+	{ "PosX":100,		"PosY":50,		"Width":100,		"Height":100 },
+	{ "PosX":200,		"PosY":20,		"Width":100,		"Height":100 },
+	{ "PosX":150,		"PosY":100,		"Width":100,		"Height":100 },
+	{ "PosX":120,		"PosY":20,		"Width":100,		"Height":100 },
+	{ "PosX":300,		"PosY":30,		"Width":100,		"Height":100 },
+];
+
+var Level1SawBlade = [
+	{ "PosX":0, 		"PosY":0,		"Width":50,			"Height":50 },
+];
